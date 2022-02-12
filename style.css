@@ -24,6 +24,26 @@
 .imagenCafe{
     width: 80px;
     height: 100px;
+
+}
+
+main{
+    margin-bottom: 10vh;
+}
+
+
+.contenedor{
+    border: 1px solid gray;
+}
+
+.seccionesTxt{
+    margin-top:5vh;
+    margin-bottom: 10vh;
+}
+
+.tituloEntrada{
+    margin-top:5vh;
+    margin-bottom:5vh;
 }
 
 /*Vista LG */
@@ -40,6 +60,3 @@
     }
 }
 
-main{
-    margin-bottom: 10vh;
-}
